@@ -34,6 +34,7 @@ Step 3 - Add the following dependencies in package.json
 
 Step 5 — Build Page Layout
 Step 6 — Create pages
-mpm run dev
+Step 7 - Run App Server
+npm run dev
 
 
